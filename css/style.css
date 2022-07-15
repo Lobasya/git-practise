@@ -1,4 +1,9 @@
+.title {
+    margin: 0 auto;
+    width: 300px;
+    background: yellow;
+}
+
 h1 {
     color: red;
-    background: blue;	
 }
